@@ -15,6 +15,12 @@ brew install idris
 - 正格評価
 - 関数の型の記述が原則必須
 
+## 参考文献
+
+- [Documentation for the Idris Language](http://docs.idris-lang.org/en/latest/index.html)
+- [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
+- [こわくない Idris (1) - Ryusei’s Notes (a.k.a. M59のブログ)](http://mandel59.hateblo.jp/entry/2013/09/02/184831)
+
 ## イントロダクション
 
 従来のプログラミング言語では、型と値との間に明確な違いがあった。
