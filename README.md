@@ -43,7 +43,7 @@ The goal of the Idris project is to build a dependently typed language suitable 
 
 This tutorial is intended as a brief introduction to the language, and is aimed at readers already familiar with a functional language such as Haskell or OCaml. In particular, a certain amount of familiarity with Haskell syntax is assumed, although most concepts will at least be explained briefly. The reader is also assumed to have some intrest in using dependent types for writing and verifying systems software.
 
-For a more in-depth introduction to Idris, which proceeds at a much slower pace, covering interactive program development, with many more examples, see Type-Driven Development with Idris by Edwin Brady, available from Manning.
+Idris をより詳細に説明し、ゆっくりとしたペースで進み、対話的なプログラム開発しをカバーし、より多くのコード例がある [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris) (Edwin Brady 著) が [Manning](https://www.manning.com/) で入手可能である。
 
 ## コード例
 
