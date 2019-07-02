@@ -10,3 +10,9 @@ immerse 没頭する
 contract 契約
 presence 存在
 absence 不在
+construct (名) 構成物
+coercion 強制
+a means of ~ 〜の手段として
+enormously 非常に
+bit patterns ビットパターン (ビットの組み合わせ)
+consistently 一貫して
