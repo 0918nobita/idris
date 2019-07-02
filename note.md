@@ -53,16 +53,48 @@ compiler, type checker = an assistant who guides us to a complete and working pr
 > Tests can usually only be used to show the presence of errors, types can show the absence of errors.  
 > Types reduce the need for tests, but they rarely eliminate it entirely.
 
+types = a _first-class_ language construct
+
+Types can be manipulated, used, passed as arguments to functions, and returned from functions.
+
 ### 1.1 What is a type?
 
-### 1.2.1 Introducing type-driven development
+types = a means of classifying values
 
-### 1.2.2 Matrix arithmetic
+All modern programming languages classify values by type, although they differ enormously in when and how they do so.
 
-### 1.2.3 Concurrent programming
+Types serve several important roles:
 
-### 1.2.4 Type, define, refine: the process of type-driven development
+- (For a _machine_) Describe how bit patterns in memory are to be interpreted
+- (For a _compiler_ or _interpreter_) Help ensure that bit patterns are interpreted consistently when a program runs
+- (For a _programmer_) Help name and organize concepts, aiding documentation and supporting interactive editing environments (**most important purpose**)
 
-### 1.2.5 Dependent types
+Types help programmers in several ways:
+
+- By allowing for the naming and organization of concepts
+- By providing explicit documentation of the purposes of variables, functions, and programs
+- By driving code completion in an interactive editing environment
+
+### 1.2 Introducing type-driven development
+
+#### 1.2.1 Matrix arithmetic
+
+#### 1.2.2 An automated teller machine
+
+#### 1.2.3 Concurrent programming
+
+#### 1.2.4 Type, define, refine: the process of type-driven development
+
+#### 1.2.5 Dependent types
 
 ### 1.3 Pure functional programming
+
+#### 1.3.1 Purity and referetial transparency
+
+#### 1.3.2 Side-effecting programs
+
+#### 1.3.3 Partial and total functions
+
+### 1.4 A quick tour of Idris
+
+#### 1.4.1 The interactive environment
