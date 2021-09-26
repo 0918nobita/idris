@@ -1,0 +1,5 @@
+rule compile
+    command = idris $in -o $out
+
+build build/hello: compile src/hello.idr
+build build/stdin: compile src/stdin.idr

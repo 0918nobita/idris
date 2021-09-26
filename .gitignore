@@ -1,1 +1,3 @@
+build/
 *.ibc
+.ninja_log
